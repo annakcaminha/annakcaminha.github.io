@@ -10,3 +10,6 @@ This is my first site, which will provide my professional experiences.
 ## Accessing the site
 To access this site, please clik on <https://annakcaminha.github.io>
 
+## Autors
+- [LinkedIn](https://linkedin.com/in/annakcaminha)
+- <a href="https://instagram.com/annakcaminha" a> Instagram
